@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="265" viewBox="0 0 800 265" font-family="'SF Mono','Fira Code',Consolas,Menlo,monospace" font-size="12">
+  <style>
+    @keyframes fadeSlide { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+    .item { animation: fadeSlide 0.4s cubic-bezier(0.4,0,0.2,1) forwards; opacity:0; }
+  </style>
+  <rect width="800" height="265" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="400" y="32" font-size="14" font-weight="bold" fill="#3fb950" text-anchor="middle">&gt; let's build together_</text>
+  <g class="item" style="animation-delay:0.20s">
+    <rect x="30" y="55" width="140" height="40" rx="6" fill="#3fb950" opacity="0.1" stroke="#3fb950" stroke-width="0.6"/>
+    <text x="100" y="79" fill="#3fb950" text-anchor="middle">Python</text>
+  </g>
+  <g class="item" style="animation-delay:0.25s">
+    <rect x="180" y="55" width="140" height="40" rx="6" fill="#3fb950" opacity="0.1" stroke="#3fb950" stroke-width="0.6"/>
+    <text x="250" y="79" fill="#3fb950" text-anchor="middle">FastAPI</text>
+  </g>
+  <g class="item" style="animation-delay:0.30s">
+    <rect x="330" y="55" width="140" height="40" rx="6" fill="#79c0ff" opacity="0.1" stroke="#79c0ff" stroke-width="0.6"/>
+    <text x="400" y="79" fill="#79c0ff" text-anchor="middle">React</text>
+  </g>
+  <g class="item" style="animation-delay:0.35s">
+    <rect x="480" y="55" width="140" height="40" rx="6" fill="#56d4dd" opacity="0.1" stroke="#56d4dd" stroke-width="0.6"/>
+    <text x="550" y="79" fill="#56d4dd" text-anchor="middle">Docker</text>
+  </g>
+  <g class="item" style="animation-delay:0.40s">
+    <rect x="630" y="55" width="140" height="40" rx="6" fill="#56d4dd" opacity="0.1" stroke="#56d4dd" stroke-width="0.6"/>
+    <text x="700" y="79" fill="#56d4dd" text-anchor="middle">Go</text>
+  </g>
+  <g class="item" style="animation-delay:0.45s">
+    <rect x="30" y="105" width="140" height="40" rx="6" fill="#79c0ff" opacity="0.1" stroke="#79c0ff" stroke-width="0.6"/>
+    <text x="100" y="129" fill="#79c0ff" text-anchor="middle">Flutter</text>
+  </g>
+  <g class="item" style="animation-delay:0.50s">
+    <rect x="180" y="105" width="140" height="40" rx="6" fill="#3fb950" opacity="0.1" stroke="#3fb950" stroke-width="0.6"/>
+    <text x="250" y="129" fill="#3fb950" text-anchor="middle">PostgreSQL</text>
+  </g>
+  <g class="item" style="animation-delay:0.55s">
+    <rect x="330" y="105" width="140" height="40" rx="6" fill="#ff7b72" opacity="0.1" stroke="#ff7b72" stroke-width="0.6"/>
+    <text x="400" y="129" fill="#ff7b72" text-anchor="middle">Redis</text>
+  </g>
+  <g class="item" style="animation-delay:0.60s">
+    <rect x="480" y="105" width="140" height="40" rx="6" fill="#ffa657" opacity="0.1" stroke="#ffa657" stroke-width="0.6"/>
+    <text x="550" y="129" fill="#ffa657" text-anchor="middle">Kali Linux</text>
+  </g>
+  <g class="item" style="animation-delay:0.65s">
+    <rect x="630" y="105" width="140" height="40" rx="6" fill="#d2a8ff" opacity="0.1" stroke="#d2a8ff" stroke-width="0.6"/>
+    <text x="700" y="129" fill="#d2a8ff" text-anchor="middle">Wazuh</text>
+  </g>
+  <g class="item" style="animation-delay:0.70s">
+    <rect x="30" y="155" width="140" height="40" rx="6" fill="#ffa657" opacity="0.1" stroke="#ffa657" stroke-width="0.6"/>
+    <text x="100" y="179" fill="#ffa657" text-anchor="middle">Grafana</text>
+  </g>
+  <g class="item" style="animation-delay:0.75s">
+    <rect x="180" y="155" width="140" height="40" rx="6" fill="#3fb950" opacity="0.1" stroke="#3fb950" stroke-width="0.6"/>
+    <text x="250" y="179" fill="#3fb950" text-anchor="middle">Nmap</text>
+  </g>
+  <g class="item" style="animation-delay:0.80s">
+    <rect x="330" y="155" width="140" height="40" rx="6" fill="#ff7b72" opacity="0.1" stroke="#ff7b72" stroke-width="0.6"/>
+    <text x="400" y="179" fill="#ff7b72" text-anchor="middle">Burp Suite</text>
+  </g>
+  <g class="item" style="animation-delay:0.85s">
+    <rect x="480" y="155" width="140" height="40" rx="6" fill="#ff7b72" opacity="0.1" stroke="#ff7b72" stroke-width="0.6"/>
+    <text x="550" y="179" fill="#ff7b72" text-anchor="middle">Metasploit</text>
+  </g>
+  <g class="item" style="animation-delay:0.90s">
+    <rect x="630" y="155" width="140" height="40" rx="6" fill="#79c0ff" opacity="0.1" stroke="#79c0ff" stroke-width="0.6"/>
+    <text x="700" y="179" fill="#79c0ff" text-anchor="middle">Wireshark</text>
+  </g>
+  <g class="item" style="animation-delay:0.95s">
+    <rect x="30" y="205" width="140" height="40" rx="6" fill="#3fb950" opacity="0.1" stroke="#3fb950" stroke-width="0.6"/>
+    <text x="100" y="229" fill="#3fb950" text-anchor="middle">scikit-learn</text>
+  </g>
+  <g class="item" style="animation-delay:1.00s">
+    <rect x="180" y="205" width="140" height="40" rx="6" fill="#d2a8ff" opacity="0.1" stroke="#d2a8ff" stroke-width="0.6"/>
+    <text x="250" y="229" fill="#d2a8ff" text-anchor="middle">Hyperledger</text>
+  </g>
+  <g class="item" style="animation-delay:1.05s">
+    <rect x="330" y="205" width="140" height="40" rx="6" fill="#ffa657" opacity="0.1" stroke="#ffa657" stroke-width="0.6"/>
+    <text x="400" y="229" fill="#ffa657" text-anchor="middle">ESP32</text>
+  </g>
+  <g class="item" style="animation-delay:1.10s">
+    <rect x="480" y="205" width="140" height="40" rx="6" fill="#56d4dd" opacity="0.1" stroke="#56d4dd" stroke-width="0.6"/>
+    <text x="550" y="229" fill="#56d4dd" text-anchor="middle">Zeek</text>
+  </g>
+  <g class="item" style="animation-delay:1.15s">
+    <rect x="630" y="205" width="140" height="40" rx="6" fill="#c9d1d9" opacity="0.1" stroke="#c9d1d9" stroke-width="0.6"/>
+    <text x="700" y="229" fill="#c9d1d9" text-anchor="middle">GitHub Actions</text>
+  </g>
+</svg>

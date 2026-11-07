@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120" font-family="'SF Mono','Fira Code',Consolas,Menlo,monospace" font-size="12">
+  <style>
+    @keyframes popIn { from { opacity:0; transform:scale(0.8); } to { opacity:1; transform:scale(1); } }
+    .pill { animation: popIn 0.4s cubic-bezier(0.4,0,0.2,1) forwards; opacity:0; }
+  </style>
+  <rect width="860" height="120" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <g class="pill" style="animation-delay:0.10s">
+    <rect x="30" y="30" width="155.0" height="28" rx="14" fill="#ff7b72" opacity="0.12" stroke="#ff7b72" stroke-width="0.8"/>
+    <text x="107.0" y="48" fill="#ff7b72" text-anchor="middle">Offensive Security</text>
+  </g>
+  <g class="pill" style="animation-delay:0.18s">
+    <rect x="245" y="30" width="140.0" height="28" rx="14" fill="#79c0ff" opacity="0.12" stroke="#79c0ff" stroke-width="0.8"/>
+    <text x="315.0" y="48" fill="#79c0ff" text-anchor="middle">Network Security</text>
+  </g>
+  <g class="pill" style="animation-delay:0.26s">
+    <rect x="460" y="30" width="125.0" height="28" rx="14" fill="#56d4dd" opacity="0.12" stroke="#56d4dd" stroke-width="0.8"/>
+    <text x="522.0" y="48" fill="#56d4dd" text-anchor="middle">Cloud Security</text>
+  </g>
+  <g class="pill" style="animation-delay:0.34s">
+    <rect x="675" y="30" width="72.5" height="28" rx="14" fill="#d2a8ff" opacity="0.12" stroke="#d2a8ff" stroke-width="0.8"/>
+    <text x="711.0" y="48" fill="#d2a8ff" text-anchor="middle">ML / AI</text>
+  </g>
+  <g class="pill" style="animation-delay:0.42s">
+    <rect x="30" y="75" width="95.0" height="28" rx="14" fill="#ffa657" opacity="0.12" stroke="#ffa657" stroke-width="0.8"/>
+    <text x="77.0" y="93" fill="#ffa657" text-anchor="middle">Blockchain</text>
+  </g>
+  <g class="pill" style="animation-delay:0.50s">
+    <rect x="245" y="75" width="162.5" height="28" rx="14" fill="#3fb950" opacity="0.12" stroke="#3fb950" stroke-width="0.8"/>
+    <text x="326.0" y="93" fill="#3fb950" text-anchor="middle">Security Automation</text>
+  </g>
+  <g class="pill" style="animation-delay:0.58s">
+    <rect x="460" y="75" width="140.0" height="28" rx="14" fill="#e3b341" opacity="0.12" stroke="#e3b341" stroke-width="0.8"/>
+    <text x="530.0" y="93" fill="#e3b341" text-anchor="middle">Web App Security</text>
+  </g>
+  <g class="pill" style="animation-delay:0.66s">
+    <rect x="675" y="75" width="95.0" height="28" rx="14" fill="#f778ba" opacity="0.12" stroke="#f778ba" stroke-width="0.8"/>
+    <text x="722.0" y="93" fill="#f778ba" text-anchor="middle">SIEM / SOC</text>
+  </g>
+</svg>
